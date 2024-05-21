@@ -8,4 +8,8 @@ just playing around with GitHub
 
 Das Hier ist der GitBook Änderung
 
+
+
+<figure><img src=".gitbook/assets/WhatsApp_icon.png" alt=""><figcaption></figcaption></figure>
+
 [Link to the website](https://oliverheisel.github.io/test/)
