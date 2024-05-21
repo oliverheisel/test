@@ -1,4 +1,4 @@
 # Table of contents
 
-* [test](README.md)
+* [Home](README.md)
 * [⛵ Page2345](page2345.md)
